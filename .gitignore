@@ -1,0 +1,8 @@
+*__pycache__*
+wandb/*
+models/*
+dataset/*
+*.png
+*.pt
+wandb-metadata.json
+*.h5
